@@ -137,8 +137,7 @@ contextInfo: {
 externalAdReply: {
 title: 'JOPTBOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/20fcb3d975e8f6d9524ad.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+thumbnailUrl: 'https://telegra.ph/file/e4a1e0dc600de13ea34a5.mp4',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
