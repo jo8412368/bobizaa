@@ -135,8 +135,6 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'JOPTBOT ♥',
-body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/e4a1e0dc600de13ea34a5.mp4',
 mediaType: 1,
 renderLargerThumbnail: true
