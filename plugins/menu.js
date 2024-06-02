@@ -132,8 +132,6 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 
  conn.sendMessage(m.chat, {
-text: text,
-contextInfo: {
 externalAdReply: {
 thumbnailUrl: 'https://telegra.ph/file/e4a1e0dc600de13ea34a5.mp4',
 mediaType: 1,
